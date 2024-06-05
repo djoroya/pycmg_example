@@ -1,0 +1,7 @@
+.conda
+src/dependencies/pycmg
+src/downloads/main.zip
+*.pyc
+*.npy
+*.stl
+*.vti

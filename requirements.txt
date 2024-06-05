@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+mpmath
+pandas
+sphinxcontrib.napoleon
+trimesh
+scikit-image
